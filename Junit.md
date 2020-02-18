@@ -178,7 +178,19 @@ setelah itu baru bisa
 >git commit -m "[temp] Create sample.files."
 
 
+change your text or data
 
+>git merge tool
 
+>git rebase 
+>git add .
+>git rebase --continue
 
+git stash 
+
+>git stash
+
+>git pull
+
+>git stash pop
 
